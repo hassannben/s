@@ -1,0 +1,9 @@
+User-agent: Mediapartners-Google
+Disallow: /search
+Allow: /
+
+User-agent: *
+Disallow: /search
+Allow: /
+
+Sitemap: /Sitemap.xml

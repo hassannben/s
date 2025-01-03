@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>oussama apk</title>
+        <link></link>
+        <description>تحميل تطبيقات، تطبيقات أندرويد، Yacine TV، DRAMA LIVE، Family 4K، HiTv</description>
+        <language>ar</language>
+        <pubDate>Sun, 31 Dec 2024 00:00:00 +0000</pubDate>
+        <lastBuildDate>Mon, 16 Sep 2024 00:00:00 +0000</lastBuildDate>
+        
+        <item>
+            <title>سياسة الخصوصية</title>
+            <link>/pages/privacy-policy.html</link>
+            <description>تعرف على سياسة الخصوصية لموقع 1oussama وممارسات جمع البيانات.</description>
+            <pubDate>Mon, 31 Dec 2024 00:00:00 +0000</pubDate>
+            <guid>/pages/privacy-policy.html</guid>
+        </item>
+
+        <item>
+            <title>شروط الاستخدام</title>
+            <link>/pages/terms-of-use.html</link>
+            <description>مراجعة شروط الاستخدام الخاصة بموقع 1oussama وكيفية استخدام الموقع والخدمات المقدمة.</description>
+            <pubDate>Mon, 31 Dec 2024 00:00:00 +0000</pubDate>
+            <guid>/pages/terms-of-use.html</guid>
+        </item>
+
+        <!-- أضف المزيد من العناصر بنفس الشكل -->
+
+    </channel>
+</rss>
