@@ -2,12 +2,12 @@ self.addEventListener('install', (event) => {
     event.waitUntil(
         caches.open('oussama-apk-v1').then((cache) => {
             return cache.addAll([
-                '/',
-                '/index.html',
-                '/style.css',
-                '/script.js',
-                '/icons/icon-192x192.png',
-                '/icons/icon-512x512.png'
+                'https://hassannben.github.io/s',
+                'https://hassannben.github.io/s/index.html',
+                'https://hassannben.github.io/s/style.css',
+                'https://hassannben.github.io/s/script.js',
+                'https://hassannben.github.io/s/icons/icon-192x192.png',
+                'https://hassannben.github.io/s/icons/icon-512x512.png'
             ]);
         }).catch(error => {
             console.error('Error caching assets during install:', error);

@@ -6,4 +6,4 @@ User-agent: *
 Disallow: /search
 Allow: /
 
-Sitemap: /Sitemap.xml
+Sitemap: https://hassannben.github.io/s/Sitemap.xml
